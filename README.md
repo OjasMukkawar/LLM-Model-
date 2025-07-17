@@ -13,19 +13,6 @@ Natural Language Queries – Ask questions in plain English and get AI-generated
 
 Streamlit UI – Simple, intuitive, and ready to deploy.
 
-🚀 Quick Start
-Install & Run
-
-bash
-git clone https://github.com/yourusername/llm-question-answering-app.git
-cd llm-question-answering-app
-pip install -r requirements.txt
-streamlit run app.py
-Upload & Query – Drag and drop files, then ask questions directly!
-
-🌍 Deployment
-Deploy instantly on Streamlit Community Cloud with just a few clicks.
-
 🔧 Built With
 Python ≥ 3.7
 
